@@ -1,0 +1,2 @@
+This is an example text file created in Nano. 
+I really do like Nano, it's just so simple! :)
